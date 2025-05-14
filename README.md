@@ -180,7 +180,8 @@ or
 	Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation .
 
 	To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation. 
-![Screenshot 2025-04-28 162941](https://github.com/user-attachments/assets/5432e234-9b69-4baf-8e7b-2ff3d260b54f)
+![438182985-5432e234-9b69-4baf-8e7b-2ff3d260b54f](https://github.com/user-attachments/assets/fb08d680-18ad-4d09-bcd7-0372ac60fc25)
+
 
 
 ### Fig 7: Nclaunch Window
@@ -201,7 +202,8 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 Left side select the file and in Tools : launch verilog compiler with current selection will get enable. Click it to compile the code 
 
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation
-![Screenshot 2025-04-28 162958](https://github.com/user-attachments/assets/426a814d-0323-4b62-b260-08e782c26719)
+![438183126-426a814d-0323-4b62-b260-08e782c26719](https://github.com/user-attachments/assets/a11aed4d-9958-43d4-a7aa-bc29449fe0c5)
+
 
 
 ### Fig 8: Compiled database in worklib
@@ -226,7 +228,8 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 5.	It also establishes net connectivity and prepares all of this for simulation
    
 	After elaboration the file will come under snapshot. Select the test bench and elaborate it.
-![Screenshot 2025-04-28 163018](https://github.com/user-attachments/assets/55a0e5ce-a9a4-4a1a-810c-c5c9318317b1)
+![438183233-55a0e5ce-a9a4-4a1a-810c-c5c9318317b1](https://github.com/user-attachments/assets/51aeae07-4a4d-4d71-ae71-1ea3f140a02b)
+
 
 
 ### Fig 9: Elaboration Launch Option
@@ -240,21 +243,25 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 	Simulation allow to dump design and test bench signals into a waveform 
 
 	Steps for simulation – Run the simulation command with simulator options
-![Screenshot 2025-04-28 163018](https://github.com/user-attachments/assets/2c308c16-7af6-4667-92b5-c519a4485255)
+![438183233-55a0e5ce-a9a4-4a1a-810c-c5c9318317b1](https://github.com/user-attachments/assets/8b469bcc-a95b-4cb6-b518-72a3a0b07524)
+
 
 
 ### Fig 10: Design Browser window for simulation
-![Screenshot 2025-04-28 163111](https://github.com/user-attachments/assets/22e8eb32-761e-469d-afcf-7b155129b736)
+
+![438183368-22e8eb32-761e-469d-afcf-7b155129b736](https://github.com/user-attachments/assets/92643b69-cc24-412d-99c9-52dd0c687f8f)
 
 
 ### Fig 11: Launching Simulation Waveform WindowSimulation Waveform Window
-![Screenshot 2025-04-28 163142](https://github.com/user-attachments/assets/f2ad76c8-7de8-41aa-89e0-606a205cf308)
+![438185021-f2ad76c8-7de8-41aa-89e0-606a205cf308](https://github.com/user-attachments/assets/4e15eec2-f7f5-4c9e-b0ae-52bd4ddb45cb)
+
 
 
 
 
 ### Fig 12: Simulation Waveform Window
-![Screenshot 2025-04-28 163149](https://github.com/user-attachments/assets/220b60c1-db50-420e-a5e1-b3dbb78e40bf)
+![438183564-220b60c1-db50-420e-a5e1-b3dbb78e40bf](https://github.com/user-attachments/assets/3941f9e4-224c-4715-ab2b-3277351cf491)
+
 
 
 ### Result:
